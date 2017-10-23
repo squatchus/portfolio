@@ -4514,7 +4514,7 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio.portfolio-pa
 	opacity: 0;
 	z-index: 2;
 	text-align: center;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.2);
 }
 
 body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay {
